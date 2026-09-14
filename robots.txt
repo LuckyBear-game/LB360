@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /site/
+Allow: /
+
+Sitemap: https://luckybear360.lb-game.ru/sitemap.xml
